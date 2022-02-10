@@ -5,7 +5,7 @@
   <b>Ultroid - UserBot</b>
 </h1>
 
-<b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
+<b>A stable IU pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
 
 [![](https://img.shields.io/badge/Ultroid-v0.3-blue)](#)
 [![Stars](https://img.shields.io/github/stars/TeamUltroid/Ultroid?style=flat-square&color=yellow)](https://github.com/TeamUltroid/Ultroid/stargazers)
@@ -32,7 +32,7 @@
 # Tutorial 
 - Full Tutorial - [![Full Tutorial](https://img.shields.io/badge/Watch%20Now-blue)](https://www.youtube.com/watch?v=0wAV7pUzhDQ)
 
-- Tutorial to get Redis URL and password - [here.](./resources/extras/redistut.md)
+- Tutorial to hh get Redis URL and password - [here.](./resources/extras/redistut.md)
 ---
 
 ## Deploy to Heroku
@@ -125,4 +125,4 @@ Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.or
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
 * [MarshalX](https://github.com/MarshalX) for [PyTgCalls.](https://github.com/MarshalX/tgcalls)
 
-> Made with 💕 by [@TeamUltroid](https://t.me/TeamUltroid).    
+> Made with 💕 love by [@TeamUltroid](https://t.me/TeamUltroid).    
