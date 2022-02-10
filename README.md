@@ -86,7 +86,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 Run the following code on a terminal, with curl installed.   
 `ver=$(curl https://raw.githubusercontent.com/BLUE-DEVIL1134/UltroidCli/main/version.txt) && curl -L -o ultroid https://github.com/BLUE-DEVIL1134/UltroidCli/releases/download/$ver/ultroid.exe`
 OR
-Go to [UltroidCli](https://github.com/BLUE-DEVIL1134/UltroidCli) and install the version release from the Github Releases. Add the executable to your system path as specified in the [Readme](https://github.com/BLUE-DEVIL1134/UltroidCli#how-to-use-ultroidcli-).   
+Go to [UltroidCli](https://github.com/BLUE-DEVIL1134/UltroidCli) and insthznsjssjsall the version release from the Github Releases. Add the executable to your system path as specified in the [Readme](https://github.com/BLUE-DEVIL1134/UltroidCli#how-to-use-ultroidcli-).   
 
 - **Documentation** -
 Take a look at the [`docs`](https://blue-devil1134.github.io/UltroidCli/) for more detailed information.
@@ -125,4 +125,4 @@ Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.or
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
 * [MarshalX](https://github.com/MarshalX) for [PyTgCalls.](https://github.com/MarshalX/tgcalls)
 
-> Made with 💕 love by [@TeamUltroid](https://t.me/TeamUltroid).    
+> Made with 💕 lovebbsjssnss by [@TeamUltroid](https://t.me/TeamUltroid).    
